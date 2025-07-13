@@ -15,6 +15,7 @@ rqt_graph:
 
 <img width="1456" height="612" alt="rosgraph" src="https://github.com/user-attachments/assets/b32f5342-4324-4aca-bfc1-e57dc7b29bca" />
 
-#week 4-
+#week 4A-
 Q1 ---> fk_publisher_node.py
+
 Q3 ---> ik_controller_node.py
