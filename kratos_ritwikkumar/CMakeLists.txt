@@ -24,6 +24,8 @@ install(
 # Install your executable Python script
 install(
   PROGRAMS
+  kratos_ritwikkumar/ik_controller_node.py
+  kratos_ritwikkumar/fk_publisher_node.py
   kratos_ritwikkumar/clock_publisher.py
   kratos_ritwikkumar/rover_status_publisher.py
   kratos_ritwikkumar/hello_publisher_q1.py
